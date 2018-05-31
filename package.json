@@ -1,0 +1,22 @@
+{
+  "name": "landreaux-react-webpack-config",
+  "bin": {
+    "buildJs": "./index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robertlandreaux/landreaux-react-webpack-config",
+  "author": "Robert C Landreaux",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.0",
+    "babel-eslint": "8.2.3",
+    "babel-loader": "7.1.4",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "webpack": "4.5.0",
+    "webpack-cli": "2.0.14"
+  }
+}
