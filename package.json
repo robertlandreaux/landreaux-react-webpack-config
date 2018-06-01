@@ -3,7 +3,7 @@
   "bin": {
     "buildJs": "./index.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/robertlandreaux/landreaux-react-webpack-config",
   "author": "Robert C Landreaux",
